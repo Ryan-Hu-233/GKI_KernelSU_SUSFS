@@ -23,7 +23,7 @@ on:
 
       # ==================== KernelSU 配置 ====================
       ksu_variant:
-        required: true
+        required: false
         type: string
 
       # ==================== 可选配置 ====================
